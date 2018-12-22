@@ -46,7 +46,8 @@ const circle = {
   getArea(radius);
 
 
-// Typescript
+// Superset Typescript
 
+    //ES6 --> Typscript
 
-
+        // Contains Types
