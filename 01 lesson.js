@@ -51,3 +51,6 @@ const circle = {
     //ES6 --> Typscript
 
         // Contains Types
+
+        mistakes={false}
+        suggestion={true}
