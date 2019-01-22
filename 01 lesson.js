@@ -32,7 +32,7 @@ const hallo = ({x2, y2, type2, color2}) => {
 
 hallo(point3);
 
-// 0.2 Destructuring - Nehmen wir den Kram auseiander ?!???????
+// 0.2 Destructuring
 
 
 const circle = {
