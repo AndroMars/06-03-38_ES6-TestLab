@@ -37,3 +37,18 @@ function checkScope() {
     console.log("Function scope i is: ", i);
     return i;
 }
+
+// const Keywords
+
+function printManyTimes(str) {
+    "use strict";
+
+
+
+    const sentence = str + " is cool!";
+    for (let i = 0; i < str.length; i += 2) {
+        console.log(sentence);
+    }
+
+}
+printManyTimes("freeCodeCamp");
