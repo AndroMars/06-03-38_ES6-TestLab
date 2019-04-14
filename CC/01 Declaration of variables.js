@@ -45,10 +45,10 @@ function printManyTimes(str) {
 
 
 
-    const sentence = str + " is cool!";
+    const SENTENCE = str + " is cool!";
     for (let i = 0; i < str.length; i += 2) {
-        console.log(sentence);
+        console.log(SENTENCE);
     }
 
 }
-printManyTimes("freeCodeCamp");
+printManyTimes("Macyth is here");
